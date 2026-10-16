@@ -1,0 +1,4 @@
+1,ALMA,Papel,Piedra,Victoria
+1,ALMA,Tijera,Tijera,Empate
+2,ALMA,Papel,Piedra,Victoria
+3,ALMA,Papel,Papel,Empate
