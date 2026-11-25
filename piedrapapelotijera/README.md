@@ -9,8 +9,8 @@
 ---
 
 ## 👥 Integrantes del Grupo
-* **[Apellido y Nombre Alumno 1]** - GitHub: `@[Usuario_GitHub]`
-* **[Apellido y Nombre Alumno 2]** - GitHub: `@[Usuario_GitHub]`
+* **[Apellido y Nombre Alumno 1]** - GitHub: `@[Usuario_GitHub]` ????
+* **[Apellido y Nombre Alumno 2]** - GitHub: `@[Usuario_GitHub]` ????? y el repositorio de GitLab???
 
 ---
 
